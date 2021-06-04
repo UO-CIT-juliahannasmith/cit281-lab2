@@ -3,4 +3,4 @@
 ### About this lab:
 * Introduced local git repositories 
 * Practice cloning and downloading cloud repos
-* More command line practice 
+* More command line prectivce 
